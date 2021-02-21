@@ -8,6 +8,9 @@ h1{
   text-align: center;
   color:white;
 }
+a {
+   color: crimson;
+}
 .container-all{
   width: fit-content;
   margin: 20px auto;
